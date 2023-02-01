@@ -1,6 +1,6 @@
 ### 📫 Contacts 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/miguel-weiping-tang-feng-ba7679224/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -20,16 +20,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+___
 ### :smile: About My Self 
 
-:mortar_board: My name is Miguel Tang and I'm an aspiring software engineer. I'm currently majoring in Computational Technologies Engineer at Tecnológico de Monterrey Campus Querétaro.
+:mortar_board: My name is Miguel Tang and I'm an aspiring software engineer. I'm majoring in Computational Technologies Engineer at Tecnológico de Monterrey Campus Querétaro.
 
 🔭 Currently I'm taking an Internship in Natgas Querétaro as a software engineer where I've gained experience related to project planning and management, software development, and agile methodologies.
 
-🌱 One of my passions is learning about new technologies. My main interest is focused around software applications and its new tendencies that seek to improve the current frameworks and tools used.
+🌱 One of my passions is learning about new technologies. My main interest is focused around software applications and its new tendencies that seek to improve the frameworks and tools used nowadays.
 
 ⚡ Fun fact about myself: I enjoy playing the piano, ride the bike and go to the park for walks.
-
+___
 ### :computer: Technical Skills 
 
 <div>
@@ -58,6 +59,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" />
 </div>
 
+___
 ### :fire: My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mike5801&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
