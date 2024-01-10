@@ -25,11 +25,14 @@ ___
 
 :mortar_board: My name is Miguel Tang and I'm an aspiring software engineer. I'm majoring in Computational Technologies Engineer at Tecnológico de Monterrey Campus Querétaro.
 
-🔭 Currently I'm an intern at Natgas México as a software engineer where I've gained experience related to project planning and management, software development, and agile methodologies.
+🔭 I was an intern at Natgas México as a software engineer where I've gained experience related to project planning and management, software development, and agile methodologies.
 
 🌱 One of my passions is learning about new technologies. My main interest is focused around software applications and its new tendencies that seek to improve the frameworks and tools used nowadays.
 
+🚀 Another of my passions is learning more about project management, agile methodologies and delivering value to clients through software solutions.
+
 ⚡ Fun fact about myself: I enjoy playing the piano, ride the bike and go to the park for walks.
+
 ___
 ### :computer: Technical Skills 
 
