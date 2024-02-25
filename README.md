@@ -51,7 +51,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40" />
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/solidity/solidity.svg" alt="solidity" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
