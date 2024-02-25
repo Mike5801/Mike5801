@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 ___
 ### :smile: About My Self 
 
-:mortar_board: My name is Miguel Tang and I'm an aspiring software engineer. I'm majoring in Computational Technologies Engineer at Tecnológico de Monterrey Campus Querétaro.
-
 🎓 My name is Miguel Tang and I'm an aspiring software engineer. I'm majoring in Computational Technologies Engineer at Tecnológico de Monterrey Campus Querétaro.
 
 🌱 I'm passionate about learning new knowledge, particularly those related software development, with a focus on enhancing existing frameworks and tools.
