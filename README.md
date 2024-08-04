@@ -27,7 +27,7 @@ ___
 
 🌱 I am passionate about acquiring new knowledge, particularly in software development, with a focus on enhancing existing frameworks and tools.
 
-🚀 Additionally, I am eager to expand my expertise in project management, agile methodologies, and techniques to deliver value to clients.
+🚀 Additionally, I am eager to expand my expertise in project management, agile methodologies, and emerging technologies to better deliver value to clients and teams.
 
 ⚡ Fun fact about me: I enjoy playing the piano, reading books, biking, and going for walks.
 
