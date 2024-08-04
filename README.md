@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 ___
 ### :smile: About Myself 
 
-🎓 My name is Miguel Tang and I'm an aspiring software engineer. I'm majoring in Computational Technologies Engineer at Tecnológico de Monterrey Campus Querétaro.
+🎓 My name is Miguel Tang. I am a software engineer with a Bachelor of Engineering in Computer Technologies from Tecnológico de Monterrey, Campus Querétaro.
 
-🌱 I'm passionate about learning new knowledge, particularly those related software development, with a focus on enhancing existing frameworks and tools.
+🌱 I am passionate about acquiring new knowledge, particularly in software development, with a focus on enhancing existing frameworks and tools.
 
-🚀 Additionally, I'm eager to expand my knowledge in project management, agile methodologies and techniques to deliver value to clients.
+🚀 Additionally, I am eager to expand my expertise in project management, agile methodologies, and techniques to deliver value to clients.
 
-⚡ Fun fact about myself: I enjoy playing the piano, reading books, biking and going for walks.
+⚡ Fun fact about me: I enjoy playing the piano, reading books, biking, and going for walks.
 
 ___
 ### :computer: Technical Skills 
